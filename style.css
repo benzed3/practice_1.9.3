@@ -22,11 +22,32 @@ header {
 
 section {}
 
-#left {}
+#left {
+  padding: 20px;
+  margin-bottom: 20px;
+  float: left;
+  width: 33.3%;
+  background: #30948D;
+  color: #fff;
+}
 
-#middle {}
+#middle {
+  padding: 20px;
+  margin-bottom: 20px;
+  float: left;
+  width: 33.3%;
+  background: #9E1212;
+  color: #fff;
+}
 
-#right {}
+#right {
+  padding: 20px;
+  margin-bottom: 20px;
+  float: left;
+  width: 33.3%;
+  background: #30948D;
+  color: #fff;
+}
 
 #full {}
 
