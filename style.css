@@ -52,6 +52,10 @@ section {}
 #full {
   background: #394549;
   color: #fff;
+  width: 100%;
+  /*width and overflow help in keeping sections from going off screen */
+  overflow: auto;
+  margin-top: 20px;
 }
 
 #division {
