@@ -66,6 +66,9 @@ section {}
 aside {
   background: #a6b747;
   float: left;
+  width: 33%;
+  height: 200px;
+  margin-left: 30px;
 }
 
 footer {
