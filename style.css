@@ -53,6 +53,8 @@ section {}
 
 #division {}
 
-aside {}
+aside {
+  background: #a6b747;
+}
 
 footer {}
