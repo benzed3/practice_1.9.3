@@ -58,6 +58,7 @@ section {}
   clear: both;
   margin-top: 20px;
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 #division {
@@ -65,18 +66,21 @@ section {}
   color: #fff;
   padding: 20px;
   margin-top: 20px;
+  margin: 20px 20px 0 20px;
 }
 
 aside {
   background: #a6b747;
   float: left;
-  width: 33%;
+  width: 32%;
   height: 200px;
   padding: 20px;
-  margin-left: 30px;
+  margin-left: 50px;
   border: 1px solid #eee;
 }
 
 footer {
   background: #faa500;
+  margin-top: 20px;
+  padding: 20px 0 20px 0;
 }
