@@ -65,6 +65,7 @@ section {}
 
 aside {
   background: #a6b747;
+  float: left;
 }
 
 footer {
