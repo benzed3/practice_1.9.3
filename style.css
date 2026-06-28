@@ -55,12 +55,16 @@ section {}
   width: 100%;
   /*width and overflow help in keeping sections from going off screen */
   overflow: auto;
+  clear: both;
   margin-top: 20px;
+  padding-top: 20px;
 }
 
 #division {
   background: #214fb3;
   color: #fff;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 aside {
@@ -68,6 +72,7 @@ aside {
   float: left;
   width: 33%;
   height: 200px;
+  padding: 20px;
   margin-left: 30px;
   border: 1px solid #eee;
 }
