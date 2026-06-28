@@ -49,7 +49,9 @@ section {}
   color: #fff;
 }
 
-#full {}
+#full {
+  background: #394549;
+}
 
 #division {}
 
